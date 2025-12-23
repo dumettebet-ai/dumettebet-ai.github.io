@@ -1,22 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- HOMEPAGE -->
   <url>
     <loc>https://dumettebet-ai.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <priority>1.00</priority>
   </url>
 
+  <!-- STATIC -->
   <url>
     <loc>https://dumettebet-ai.github.io/about.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://dumettebet-ai.github.io/docs.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- BLOG INDEX -->
+  <url>
+    <loc>https://dumettebet-ai.github.io/blog/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- ARTICLES -->
+  <url>
+    <loc>https://dumettebet-ai.github.io/blog/belajar-seo-ai-untuk-pemula.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://dumettebet-ai.github.io/blog/kursus-seo-ai-untuk-pemula-advance.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://dumettebet-ai.github.io/blog/belajar-website-elementor-divi-seo-ai.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://dumettebet-ai.github.io/blog/jasa-pembuatan-website-seo-ai.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://dumettebet-ai.github.io/blog/strategi-seo-ai-jangka-panjang.html</loc>
+    <priority>0.80</priority>
   </url>
 
 </urlset>
